@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,normalize.css",
+    "logging_enabled": "false",
+    "name": "normalize.cssSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "normalize.cssSmokeTest.js"
+}
